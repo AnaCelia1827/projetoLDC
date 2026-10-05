@@ -1,0 +1,16 @@
+categoria,modelo,rmse,mape_pct
+bovinos,regressao_linear,162476207.02,15.74
+bovinos,random_forest,109899775.27,9.63
+bovinos,baseline_sazonal,159169564.63,16.4
+suinos,regressao_linear,23222323.71,4.14
+suinos,random_forest,30830003.15,5.49
+suinos,baseline_sazonal,33967070.88,5.99
+frangos,regressao_linear,74915107.68,4.93
+frangos,random_forest,72285844.39,4.58
+frangos,baseline_sazonal,95724283.29,6.61
+ovos,regressao_linear,25555.35,5.83
+ovos,random_forest,47650.25,11.1
+ovos,baseline_sazonal,49404.73,11.73
+leite,regressao_linear,199502.32,6.93
+leite,random_forest,177270.93,6.42
+leite,baseline_sazonal,187750.06,6.92

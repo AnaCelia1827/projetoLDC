@@ -1,0 +1,709 @@
+data,territorio,tipo_inspecao,variavel,valor,unidade
+1997-01,Brasil,Total,Animais abatidos,1227267,Cabeças
+1997-02,Brasil,Total,Animais abatidos,1129400,Cabeças
+1997-03,Brasil,Total,Animais abatidos,1153418,Cabeças
+1997-04,Brasil,Total,Animais abatidos,1252989,Cabeças
+1997-05,Brasil,Total,Animais abatidos,1227069,Cabeças
+1997-06,Brasil,Total,Animais abatidos,1194770,Cabeças
+1997-07,Brasil,Total,Animais abatidos,1248371,Cabeças
+1997-08,Brasil,Total,Animais abatidos,1252319,Cabeças
+1997-09,Brasil,Total,Animais abatidos,1283419,Cabeças
+1997-10,Brasil,Total,Animais abatidos,1322442,Cabeças
+1997-11,Brasil,Total,Animais abatidos,1212802,Cabeças
+1997-12,Brasil,Total,Animais abatidos,1381994,Cabeças
+1998-01,Brasil,Total,Animais abatidos,1227398,Cabeças
+1998-02,Brasil,Total,Animais abatidos,1127723,Cabeças
+1998-03,Brasil,Total,Animais abatidos,1285673,Cabeças
+1998-04,Brasil,Total,Animais abatidos,1217116,Cabeças
+1998-05,Brasil,Total,Animais abatidos,1258204,Cabeças
+1998-06,Brasil,Total,Animais abatidos,1239042,Cabeças
+1998-07,Brasil,Total,Animais abatidos,1273022,Cabeças
+1998-08,Brasil,Total,Animais abatidos,1202637,Cabeças
+1998-09,Brasil,Total,Animais abatidos,1200355,Cabeças
+1998-10,Brasil,Total,Animais abatidos,1263413,Cabeças
+1998-11,Brasil,Total,Animais abatidos,1214438,Cabeças
+1998-12,Brasil,Total,Animais abatidos,1397455,Cabeças
+1999-01,Brasil,Total,Animais abatidos,1233330,Cabeças
+1999-02,Brasil,Total,Animais abatidos,1239073,Cabeças
+1999-03,Brasil,Total,Animais abatidos,1390216,Cabeças
+1999-04,Brasil,Total,Animais abatidos,1333386,Cabeças
+1999-05,Brasil,Total,Animais abatidos,1420650,Cabeças
+1999-06,Brasil,Total,Animais abatidos,1447212,Cabeças
+1999-07,Brasil,Total,Animais abatidos,1447795,Cabeças
+1999-08,Brasil,Total,Animais abatidos,1488216,Cabeças
+1999-09,Brasil,Total,Animais abatidos,1356177,Cabeças
+1999-10,Brasil,Total,Animais abatidos,1432075,Cabeças
+1999-11,Brasil,Total,Animais abatidos,1410769,Cabeças
+1999-12,Brasil,Total,Animais abatidos,1588117,Cabeças
+2000-01,Brasil,Total,Animais abatidos,1320999,Cabeças
+2000-02,Brasil,Total,Animais abatidos,1362735,Cabeças
+2000-03,Brasil,Total,Animais abatidos,1409917,Cabeças
+2000-04,Brasil,Total,Animais abatidos,1300409,Cabeças
+2000-05,Brasil,Total,Animais abatidos,1511093,Cabeças
+2000-06,Brasil,Total,Animais abatidos,1455358,Cabeças
+2000-07,Brasil,Total,Animais abatidos,1440668,Cabeças
+2000-08,Brasil,Total,Animais abatidos,1519830,Cabeças
+2000-09,Brasil,Total,Animais abatidos,1370645,Cabeças
+2000-10,Brasil,Total,Animais abatidos,1452800,Cabeças
+2000-11,Brasil,Total,Animais abatidos,1442283,Cabeças
+2000-12,Brasil,Total,Animais abatidos,1498844,Cabeças
+2001-01,Brasil,Total,Animais abatidos,1467850,Cabeças
+2001-02,Brasil,Total,Animais abatidos,1277181,Cabeças
+2001-03,Brasil,Total,Animais abatidos,1571968,Cabeças
+2001-04,Brasil,Total,Animais abatidos,1410498,Cabeças
+2001-05,Brasil,Total,Animais abatidos,1587817,Cabeças
+2001-06,Brasil,Total,Animais abatidos,1512617,Cabeças
+2001-07,Brasil,Total,Animais abatidos,1539793,Cabeças
+2001-08,Brasil,Total,Animais abatidos,1710588,Cabeças
+2001-09,Brasil,Total,Animais abatidos,1507427,Cabeças
+2001-10,Brasil,Total,Animais abatidos,1670291,Cabeças
+2001-11,Brasil,Total,Animais abatidos,1553968,Cabeças
+2001-12,Brasil,Total,Animais abatidos,1626301,Cabeças
+2002-01,Brasil,Total,Animais abatidos,1602685,Cabeças
+2002-02,Brasil,Total,Animais abatidos,1477021,Cabeças
+2002-03,Brasil,Total,Animais abatidos,1484378,Cabeças
+2002-04,Brasil,Total,Animais abatidos,1546065,Cabeças
+2002-05,Brasil,Total,Animais abatidos,1663259,Cabeças
+2002-06,Brasil,Total,Animais abatidos,1608346,Cabeças
+2002-07,Brasil,Total,Animais abatidos,1690268,Cabeças
+2002-08,Brasil,Total,Animais abatidos,1686436,Cabeças
+2002-09,Brasil,Total,Animais abatidos,1659380,Cabeças
+2002-10,Brasil,Total,Animais abatidos,1832875,Cabeças
+2002-11,Brasil,Total,Animais abatidos,1823185,Cabeças
+2002-12,Brasil,Total,Animais abatidos,1850148,Cabeças
+2003-01,Brasil,Total,Animais abatidos,1806771,Cabeças
+2003-02,Brasil,Total,Animais abatidos,1727316,Cabeças
+2003-03,Brasil,Total,Animais abatidos,1780258,Cabeças
+2003-04,Brasil,Total,Animais abatidos,1678186,Cabeças
+2003-05,Brasil,Total,Animais abatidos,1791476,Cabeças
+2003-06,Brasil,Total,Animais abatidos,1662575,Cabeças
+2003-07,Brasil,Total,Animais abatidos,1746519,Cabeças
+2003-08,Brasil,Total,Animais abatidos,1721689,Cabeças
+2003-09,Brasil,Total,Animais abatidos,1823493,Cabeças
+2003-10,Brasil,Total,Animais abatidos,2007703,Cabeças
+2003-11,Brasil,Total,Animais abatidos,1839407,Cabeças
+2003-12,Brasil,Total,Animais abatidos,2059010,Cabeças
+2004-01,Brasil,Total,Animais abatidos,1993502,Cabeças
+2004-02,Brasil,Total,Animais abatidos,1833259,Cabeças
+2004-03,Brasil,Total,Animais abatidos,2144340,Cabeças
+2004-04,Brasil,Total,Animais abatidos,2018431,Cabeças
+2004-05,Brasil,Total,Animais abatidos,2156592,Cabeças
+2004-06,Brasil,Total,Animais abatidos,2250988,Cabeças
+2004-07,Brasil,Total,Animais abatidos,2306382,Cabeças
+2004-08,Brasil,Total,Animais abatidos,2344709,Cabeças
+2004-09,Brasil,Total,Animais abatidos,2278902,Cabeças
+2004-10,Brasil,Total,Animais abatidos,2127492,Cabeças
+2004-11,Brasil,Total,Animais abatidos,2193185,Cabeças
+2004-12,Brasil,Total,Animais abatidos,2288915,Cabeças
+2005-01,Brasil,Total,Animais abatidos,2177100,Cabeças
+2005-02,Brasil,Total,Animais abatidos,2014130,Cabeças
+2005-03,Brasil,Total,Animais abatidos,2255185,Cabeças
+2005-04,Brasil,Total,Animais abatidos,2396483,Cabeças
+2005-05,Brasil,Total,Animais abatidos,2413606,Cabeças
+2005-06,Brasil,Total,Animais abatidos,2518104,Cabeças
+2005-07,Brasil,Total,Animais abatidos,2504729,Cabeças
+2005-08,Brasil,Total,Animais abatidos,2573649,Cabeças
+2005-09,Brasil,Total,Animais abatidos,2319479,Cabeças
+2005-10,Brasil,Total,Animais abatidos,2063561,Cabeças
+2005-11,Brasil,Total,Animais abatidos,2307888,Cabeças
+2005-12,Brasil,Total,Animais abatidos,2486495,Cabeças
+2006-01,Brasil,Total,Animais abatidos,2378163,Cabeças
+2006-02,Brasil,Total,Animais abatidos,2131468,Cabeças
+2006-03,Brasil,Total,Animais abatidos,2571621,Cabeças
+2006-04,Brasil,Total,Animais abatidos,2227856,Cabeças
+2006-05,Brasil,Total,Animais abatidos,2684057,Cabeças
+2006-06,Brasil,Total,Animais abatidos,2615124,Cabeças
+2006-07,Brasil,Total,Animais abatidos,2577240,Cabeças
+2006-08,Brasil,Total,Animais abatidos,2762734,Cabeças
+2006-09,Brasil,Total,Animais abatidos,2598187,Cabeças
+2006-10,Brasil,Total,Animais abatidos,2666724,Cabeças
+2006-11,Brasil,Total,Animais abatidos,2554439,Cabeças
+2006-12,Brasil,Total,Animais abatidos,2605947,Cabeças
+2007-01,Brasil,Total,Animais abatidos,2717515,Cabeças
+2007-02,Brasil,Total,Animais abatidos,2431570,Cabeças
+2007-03,Brasil,Total,Animais abatidos,2807943,Cabeças
+2007-04,Brasil,Total,Animais abatidos,2499503,Cabeças
+2007-05,Brasil,Total,Animais abatidos,2798391,Cabeças
+2007-06,Brasil,Total,Animais abatidos,2446377,Cabeças
+2007-07,Brasil,Total,Animais abatidos,2548956,Cabeças
+2007-08,Brasil,Total,Animais abatidos,2620657,Cabeças
+2007-09,Brasil,Total,Animais abatidos,2455866,Cabeças
+2007-10,Brasil,Total,Animais abatidos,2434858,Cabeças
+2007-11,Brasil,Total,Animais abatidos,2437442,Cabeças
+2007-12,Brasil,Total,Animais abatidos,2513836,Cabeças
+2008-01,Brasil,Total,Animais abatidos,2573311,Cabeças
+2008-02,Brasil,Total,Animais abatidos,2320201,Cabeças
+2008-03,Brasil,Total,Animais abatidos,2355904,Cabeças
+2008-04,Brasil,Total,Animais abatidos,2610534,Cabeças
+2008-05,Brasil,Total,Animais abatidos,2595842,Cabeças
+2008-06,Brasil,Total,Animais abatidos,2412532,Cabeças
+2008-07,Brasil,Total,Animais abatidos,2441221,Cabeças
+2008-08,Brasil,Total,Animais abatidos,2361130,Cabeças
+2008-09,Brasil,Total,Animais abatidos,2341951,Cabeças
+2008-10,Brasil,Total,Animais abatidos,2343678,Cabeças
+2008-11,Brasil,Total,Animais abatidos,2079179,Cabeças
+2008-12,Brasil,Total,Animais abatidos,2264887,Cabeças
+2009-01,Brasil,Total,Animais abatidos,2206733,Cabeças
+2009-02,Brasil,Total,Animais abatidos,2039241,Cabeças
+2009-03,Brasil,Total,Animais abatidos,2243560,Cabeças
+2009-04,Brasil,Total,Animais abatidos,2183464,Cabeças
+2009-05,Brasil,Total,Animais abatidos,2348953,Cabeças
+2009-06,Brasil,Total,Animais abatidos,2367483,Cabeças
+2009-07,Brasil,Total,Animais abatidos,2428941,Cabeças
+2009-08,Brasil,Total,Animais abatidos,2377424,Cabeças
+2009-09,Brasil,Total,Animais abatidos,2397191,Cabeças
+2009-10,Brasil,Total,Animais abatidos,2519059,Cabeças
+2009-11,Brasil,Total,Animais abatidos,2345263,Cabeças
+2009-12,Brasil,Total,Animais abatidos,2605376,Cabeças
+2010-01,Brasil,Total,Animais abatidos,2341311,Cabeças
+2010-02,Brasil,Total,Animais abatidos,2198281,Cabeças
+2010-03,Brasil,Total,Animais abatidos,2544042,Cabeças
+2010-04,Brasil,Total,Animais abatidos,2460748,Cabeças
+2010-05,Brasil,Total,Animais abatidos,2587253,Cabeças
+2010-06,Brasil,Total,Animais abatidos,2547255,Cabeças
+2010-07,Brasil,Total,Animais abatidos,2566645,Cabeças
+2010-08,Brasil,Total,Animais abatidos,2408483,Cabeças
+2010-09,Brasil,Total,Animais abatidos,2428699,Cabeças
+2010-10,Brasil,Total,Animais abatidos,2322666,Cabeças
+2010-11,Brasil,Total,Animais abatidos,2357854,Cabeças
+2010-12,Brasil,Total,Animais abatidos,2514858,Cabeças
+2011-01,Brasil,Total,Animais abatidos,2338977,Cabeças
+2011-02,Brasil,Total,Animais abatidos,2323704,Cabeças
+2011-03,Brasil,Total,Animais abatidos,2441193,Cabeças
+2011-04,Brasil,Total,Animais abatidos,2222024,Cabeças
+2011-05,Brasil,Total,Animais abatidos,2488387,Cabeças
+2011-06,Brasil,Total,Animais abatidos,2355829,Cabeças
+2011-07,Brasil,Total,Animais abatidos,2390570,Cabeças
+2011-08,Brasil,Total,Animais abatidos,2503310,Cabeças
+2011-09,Brasil,Total,Animais abatidos,2390353,Cabeças
+2011-10,Brasil,Total,Animais abatidos,2382895,Cabeças
+2011-11,Brasil,Total,Animais abatidos,2463734,Cabeças
+2011-12,Brasil,Total,Animais abatidos,2522968,Cabeças
+2012-01,Brasil,Total,Animais abatidos,2336145,Cabeças
+2012-02,Brasil,Total,Animais abatidos,2305274,Cabeças
+2012-03,Brasil,Total,Animais abatidos,2578583,Cabeças
+2012-04,Brasil,Total,Animais abatidos,2357539,Cabeças
+2012-05,Brasil,Total,Animais abatidos,2695535,Cabeças
+2012-06,Brasil,Total,Animais abatidos,2605173,Cabeças
+2012-07,Brasil,Total,Animais abatidos,2661436,Cabeças
+2012-08,Brasil,Total,Animais abatidos,2832005,Cabeças
+2012-09,Brasil,Total,Animais abatidos,2559484,Cabeças
+2012-10,Brasil,Total,Animais abatidos,2833344,Cabeças
+2012-11,Brasil,Total,Animais abatidos,2731047,Cabeças
+2012-12,Brasil,Total,Animais abatidos,2623175,Cabeças
+2013-01,Brasil,Total,Animais abatidos,2894006,Cabeças
+2013-02,Brasil,Total,Animais abatidos,2575523,Cabeças
+2013-03,Brasil,Total,Animais abatidos,2658279,Cabeças
+2013-04,Brasil,Total,Animais abatidos,2923508,Cabeças
+2013-05,Brasil,Total,Animais abatidos,2874033,Cabeças
+2013-06,Brasil,Total,Animais abatidos,2739208,Cabeças
+2013-07,Brasil,Total,Animais abatidos,3043310,Cabeças
+2013-08,Brasil,Total,Animais abatidos,3018043,Cabeças
+2013-09,Brasil,Total,Animais abatidos,2797972,Cabeças
+2013-10,Brasil,Total,Animais abatidos,3018455,Cabeças
+2013-11,Brasil,Total,Animais abatidos,2905532,Cabeças
+2013-12,Brasil,Total,Animais abatidos,2964201,Cabeças
+2014-01,Brasil,Total,Animais abatidos,3039396,Cabeças
+2014-02,Brasil,Total,Animais abatidos,2674139,Cabeças
+2014-03,Brasil,Total,Animais abatidos,2659337,Cabeças
+2014-04,Brasil,Total,Animais abatidos,2804301,Cabeças
+2014-05,Brasil,Total,Animais abatidos,2998791,Cabeças
+2014-06,Brasil,Total,Animais abatidos,2735812,Cabeças
+2014-07,Brasil,Total,Animais abatidos,2978609,Cabeças
+2014-08,Brasil,Total,Animais abatidos,2700879,Cabeças
+2014-09,Brasil,Total,Animais abatidos,2791392,Cabeças
+2014-10,Brasil,Total,Animais abatidos,2939046,Cabeças
+2014-11,Brasil,Total,Animais abatidos,2656957,Cabeças
+2014-12,Brasil,Total,Animais abatidos,2929059,Cabeças
+2015-01,Brasil,Total,Animais abatidos,2736723,Cabeças
+2015-02,Brasil,Total,Animais abatidos,2408611,Cabeças
+2015-03,Brasil,Total,Animais abatidos,2594316,Cabeças
+2015-04,Brasil,Total,Animais abatidos,2527693,Cabeças
+2015-05,Brasil,Total,Animais abatidos,2581901,Cabeças
+2015-06,Brasil,Total,Animais abatidos,2523444,Cabeças
+2015-07,Brasil,Total,Animais abatidos,2587492,Cabeças
+2015-08,Brasil,Total,Animais abatidos,2474886,Cabeças
+2015-09,Brasil,Total,Animais abatidos,2523077,Cabeças
+2015-10,Brasil,Total,Animais abatidos,2611449,Cabeças
+2015-11,Brasil,Total,Animais abatidos,2467301,Cabeças
+2015-12,Brasil,Total,Animais abatidos,2614909,Cabeças
+2016-01,Brasil,Total,Animais abatidos,2452002,Cabeças
+2016-02,Brasil,Total,Animais abatidos,2451636,Cabeças
+2016-03,Brasil,Total,Animais abatidos,2416099,Cabeças
+2016-04,Brasil,Total,Animais abatidos,2519207,Cabeças
+2016-05,Brasil,Total,Animais abatidos,2570131,Cabeças
+2016-06,Brasil,Total,Animais abatidos,2565024,Cabeças
+2016-07,Brasil,Total,Animais abatidos,2472933,Cabeças
+2016-08,Brasil,Total,Animais abatidos,2515377,Cabeças
+2016-09,Brasil,Total,Animais abatidos,2333286,Cabeças
+2016-10,Brasil,Total,Animais abatidos,2370695,Cabeças
+2016-11,Brasil,Total,Animais abatidos,2414150,Cabeças
+2016-12,Brasil,Total,Animais abatidos,2621508,Cabeças
+2017-01,Brasil,Total,Animais abatidos,2473739,Cabeças
+2017-02,Brasil,Total,Animais abatidos,2324082,Cabeças
+2017-03,Brasil,Total,Animais abatidos,2600299,Cabeças
+2017-04,Brasil,Total,Animais abatidos,2125479,Cabeças
+2017-05,Brasil,Total,Animais abatidos,2740361,Cabeças
+2017-06,Brasil,Total,Animais abatidos,2557566,Cabeças
+2017-07,Brasil,Total,Animais abatidos,2675512,Cabeças
+2017-08,Brasil,Total,Animais abatidos,2805361,Cabeças
+2017-09,Brasil,Total,Animais abatidos,2505548,Cabeças
+2017-10,Brasil,Total,Animais abatidos,2645615,Cabeças
+2017-11,Brasil,Total,Animais abatidos,2602970,Cabeças
+2017-12,Brasil,Total,Animais abatidos,2810131,Cabeças
+2018-01,Brasil,Total,Animais abatidos,2676918,Cabeças
+2018-02,Brasil,Total,Animais abatidos,2434199,Cabeças
+2018-03,Brasil,Total,Animais abatidos,2661888,Cabeças
+2018-04,Brasil,Total,Animais abatidos,2618660,Cabeças
+2018-05,Brasil,Total,Animais abatidos,2313387,Cabeças
+2018-06,Brasil,Total,Animais abatidos,2835830,Cabeças
+2018-07,Brasil,Total,Animais abatidos,2852807,Cabeças
+2018-08,Brasil,Total,Animais abatidos,2933805,Cabeças
+2018-09,Brasil,Total,Animais abatidos,2530262,Cabeças
+2018-10,Brasil,Total,Animais abatidos,2812702,Cabeças
+2018-11,Brasil,Total,Animais abatidos,2663844,Cabeças
+2018-12,Brasil,Total,Animais abatidos,2708386,Cabeças
+2019-01,Brasil,Total,Animais abatidos,2771629,Cabeças
+2019-02,Brasil,Total,Animais abatidos,2541184,Cabeças
+2019-03,Brasil,Total,Animais abatidos,2614530,Cabeças
+2019-04,Brasil,Total,Animais abatidos,2642359,Cabeças
+2019-05,Brasil,Total,Animais abatidos,2838930,Cabeças
+2019-06,Brasil,Total,Animais abatidos,2457582,Cabeças
+2019-07,Brasil,Total,Animais abatidos,2944430,Cabeças
+2019-08,Brasil,Total,Animais abatidos,2875879,Cabeças
+2019-09,Brasil,Total,Animais abatidos,2678420,Cabeças
+2019-10,Brasil,Total,Animais abatidos,2918075,Cabeças
+2019-11,Brasil,Total,Animais abatidos,2614803,Cabeças
+2019-12,Brasil,Total,Animais abatidos,2548029,Cabeças
+2020-01,Brasil,Total,Animais abatidos,2463833,Cabeças
+2020-02,Brasil,Total,Animais abatidos,2386671,Cabeças
+2020-03,Brasil,Total,Animais abatidos,2486226,Cabeças
+2020-04,Brasil,Total,Animais abatidos,2272323,Cabeças
+2020-05,Brasil,Total,Animais abatidos,2588595,Cabeças
+2020-06,Brasil,Total,Animais abatidos,2542659,Cabeças
+2020-07,Brasil,Total,Animais abatidos,2660712,Cabeças
+2020-08,Brasil,Total,Animais abatidos,2545219,Cabeças
+2020-09,Brasil,Total,Animais abatidos,2567849,Cabeças
+2020-10,Brasil,Total,Animais abatidos,2606362,Cabeças
+2020-11,Brasil,Total,Animais abatidos,2269135,Cabeças
+2020-12,Brasil,Total,Animais abatidos,2497452,Cabeças
+2021-01,Brasil,Total,Animais abatidos,2129514,Cabeças
+2021-02,Brasil,Total,Animais abatidos,2179144,Cabeças
+2021-03,Brasil,Total,Animais abatidos,2288665,Cabeças
+2021-04,Brasil,Total,Animais abatidos,2247438,Cabeças
+2021-05,Brasil,Total,Animais abatidos,2421847,Cabeças
+2021-06,Brasil,Total,Animais abatidos,2457210,Cabeças
+2021-07,Brasil,Total,Animais abatidos,2534611,Cabeças
+2021-08,Brasil,Total,Animais abatidos,2546943,Cabeças
+2021-09,Brasil,Total,Animais abatidos,1937990,Cabeças
+2021-10,Brasil,Total,Animais abatidos,2162303,Cabeças
+2021-11,Brasil,Total,Animais abatidos,2242330,Cabeças
+2021-12,Brasil,Total,Animais abatidos,2556858,Cabeças
+2022-01,Brasil,Total,Animais abatidos,2277847,Cabeças
+2022-02,Brasil,Total,Animais abatidos,2242690,Cabeças
+2022-03,Brasil,Total,Animais abatidos,2490694,Cabeças
+2022-04,Brasil,Total,Animais abatidos,2272024,Cabeças
+2022-05,Brasil,Total,Animais abatidos,2606433,Cabeças
+2022-06,Brasil,Total,Animais abatidos,2550358,Cabeças
+2022-07,Brasil,Total,Animais abatidos,2623500,Cabeças
+2022-08,Brasil,Total,Animais abatidos,2734141,Cabeças
+2022-09,Brasil,Total,Animais abatidos,2605486,Cabeças
+2022-10,Brasil,Total,Animais abatidos,2477737,Cabeças
+2022-11,Brasil,Total,Animais abatidos,2419607,Cabeças
+2022-12,Brasil,Total,Animais abatidos,2647067,Cabeças
+2023-01,Brasil,Total,Animais abatidos,2547725,Cabeças
+2023-02,Brasil,Total,Animais abatidos,2385237,Cabeças
+2023-03,Brasil,Total,Animais abatidos,2533559,Cabeças
+2023-04,Brasil,Total,Animais abatidos,2541766,Cabeças
+2023-05,Brasil,Total,Animais abatidos,3033393,Cabeças
+2023-06,Brasil,Total,Animais abatidos,2903004,Cabeças
+2023-07,Brasil,Total,Animais abatidos,2929072,Cabeças
+2023-08,Brasil,Total,Animais abatidos,3181658,Cabeças
+2023-09,Brasil,Total,Animais abatidos,2887190,Cabeças
+2023-10,Brasil,Total,Animais abatidos,3067025,Cabeças
+2023-11,Brasil,Total,Animais abatidos,3048056,Cabeças
+2023-12,Brasil,Total,Animais abatidos,3044121,Cabeças
+2024-01,Brasil,Total,Animais abatidos,3196748,Cabeças
+2024-02,Brasil,Total,Animais abatidos,3148157,Cabeças
+2024-03,Brasil,Total,Animais abatidos,3088615,Cabeças
+2024-04,Brasil,Total,Animais abatidos,3381652,Cabeças
+2024-05,Brasil,Total,Animais abatidos,3422274,Cabeças
+2024-06,Brasil,Total,Animais abatidos,3263786,Cabeças
+2024-07,Brasil,Total,Animais abatidos,3628295,Cabeças
+2024-08,Brasil,Total,Animais abatidos,3554228,Cabeças
+2024-09,Brasil,Total,Animais abatidos,3318063,Cabeças
+2024-10,Brasil,Total,Animais abatidos,3360094,Cabeças
+2024-11,Brasil,Total,Animais abatidos,3107459,Cabeças
+2024-12,Brasil,Total,Animais abatidos,3219813,Cabeças
+2025-01,Brasil,Total,Animais abatidos,3382867,Cabeças
+2025-02,Brasil,Total,Animais abatidos,3255855,Cabeças
+2025-03,Brasil,Total,Animais abatidos,3324195,Cabeças
+2025-04,Brasil,Total,Animais abatidos,3415789,Cabeças
+2025-05,Brasil,Total,Animais abatidos,3633357,Cabeças
+2025-06,Brasil,Total,Animais abatidos,3536489,Cabeças
+2025-07,Brasil,Total,Animais abatidos,3867987,Cabeças
+2025-08,Brasil,Total,Animais abatidos,3688733,Cabeças
+2025-09,Brasil,Total,Animais abatidos,3790767,Cabeças
+2025-10,Brasil,Total,Animais abatidos,3887638,Cabeças
+2025-11,Brasil,Total,Animais abatidos,3477320,Cabeças
+2025-12,Brasil,Total,Animais abatidos,3691315,Cabeças
+2026-01,Brasil,Total,Animais abatidos,3442072,Cabeças
+2026-02,Brasil,Total,Animais abatidos,3243012,Cabeças
+2026-03,Brasil,Total,Animais abatidos,3626763,Cabeças
+2026-04,Brasil,Total,Animais abatidos,3473610,Cabeças
+2026-05,Brasil,Total,Animais abatidos,3588664,Cabeças
+2026-06,Brasil,Total,Animais abatidos,3659069,Cabeças
+1997-01,Brasil,Total,Peso total das carcaças,273308519,Quilogramas
+1997-02,Brasil,Total,Peso total das carcaças,250776583,Quilogramas
+1997-03,Brasil,Total,Peso total das carcaças,258143594,Quilogramas
+1997-04,Brasil,Total,Peso total das carcaças,281557166,Quilogramas
+1997-05,Brasil,Total,Peso total das carcaças,276015840,Quilogramas
+1997-06,Brasil,Total,Peso total das carcaças,269560986,Quilogramas
+1997-07,Brasil,Total,Peso total das carcaças,279181064,Quilogramas
+1997-08,Brasil,Total,Peso total das carcaças,281403260,Quilogramas
+1997-09,Brasil,Total,Peso total das carcaças,289548311,Quilogramas
+1997-10,Brasil,Total,Peso total das carcaças,295879207,Quilogramas
+1997-11,Brasil,Total,Peso total das carcaças,270652939,Quilogramas
+1997-12,Brasil,Total,Peso total das carcaças,308861579,Quilogramas
+1998-01,Brasil,Total,Peso total das carcaças,275806965,Quilogramas
+1998-02,Brasil,Total,Peso total das carcaças,255780010,Quilogramas
+1998-03,Brasil,Total,Peso total das carcaças,292795285,Quilogramas
+1998-04,Brasil,Total,Peso total das carcaças,278966923,Quilogramas
+1998-05,Brasil,Total,Peso total das carcaças,287127434,Quilogramas
+1998-06,Brasil,Total,Peso total das carcaças,284225252,Quilogramas
+1998-07,Brasil,Total,Peso total das carcaças,291813472,Quilogramas
+1998-08,Brasil,Total,Peso total das carcaças,275616771,Quilogramas
+1998-09,Brasil,Total,Peso total das carcaças,273882841,Quilogramas
+1998-10,Brasil,Total,Peso total das carcaças,288779477,Quilogramas
+1998-11,Brasil,Total,Peso total das carcaças,276426215,Quilogramas
+1998-12,Brasil,Total,Peso total das carcaças,316677234,Quilogramas
+1999-01,Brasil,Total,Peso total das carcaças,278734429,Quilogramas
+1999-02,Brasil,Total,Peso total das carcaças,279601628,Quilogramas
+1999-03,Brasil,Total,Peso total das carcaças,317987987,Quilogramas
+1999-04,Brasil,Total,Peso total das carcaças,305651089,Quilogramas
+1999-05,Brasil,Total,Peso total das carcaças,325028417,Quilogramas
+1999-06,Brasil,Total,Peso total das carcaças,331452320,Quilogramas
+1999-07,Brasil,Total,Peso total das carcaças,330339377,Quilogramas
+1999-08,Brasil,Total,Peso total das carcaças,339122399,Quilogramas
+1999-09,Brasil,Total,Peso total das carcaças,307565026,Quilogramas
+1999-10,Brasil,Total,Peso total das carcaças,320221826,Quilogramas
+1999-11,Brasil,Total,Peso total das carcaças,314822959,Quilogramas
+1999-12,Brasil,Total,Peso total das carcaças,356216876,Quilogramas
+2000-01,Brasil,Total,Peso total das carcaças,295312854,Quilogramas
+2000-02,Brasil,Total,Peso total das carcaças,306114527,Quilogramas
+2000-03,Brasil,Total,Peso total das carcaças,320226756,Quilogramas
+2000-04,Brasil,Total,Peso total das carcaças,297345221,Quilogramas
+2000-05,Brasil,Total,Peso total das carcaças,348000895,Quilogramas
+2000-06,Brasil,Total,Peso total das carcaças,333224190,Quilogramas
+2000-07,Brasil,Total,Peso total das carcaças,327728611,Quilogramas
+2000-08,Brasil,Total,Peso total das carcaças,348745495,Quilogramas
+2000-09,Brasil,Total,Peso total das carcaças,316659760,Quilogramas
+2000-10,Brasil,Total,Peso total das carcaças,331140483,Quilogramas
+2000-11,Brasil,Total,Peso total das carcaças,330390460,Quilogramas
+2000-12,Brasil,Total,Peso total das carcaças,344910357,Quilogramas
+2001-01,Brasil,Total,Peso total das carcaças,338875584,Quilogramas
+2001-02,Brasil,Total,Peso total das carcaças,295346136,Quilogramas
+2001-03,Brasil,Total,Peso total das carcaças,366627840,Quilogramas
+2001-04,Brasil,Total,Peso total das carcaças,331767889,Quilogramas
+2001-05,Brasil,Total,Peso total das carcaças,376185276,Quilogramas
+2001-06,Brasil,Total,Peso total das carcaças,357528311,Quilogramas
+2001-07,Brasil,Total,Peso total das carcaças,364728996,Quilogramas
+2001-08,Brasil,Total,Peso total das carcaças,408721034,Quilogramas
+2001-09,Brasil,Total,Peso total das carcaças,358201947,Quilogramas
+2001-10,Brasil,Total,Peso total das carcaças,391037852,Quilogramas
+2001-11,Brasil,Total,Peso total das carcaças,362177559,Quilogramas
+2001-12,Brasil,Total,Peso total das carcaças,379079272,Quilogramas
+2002-01,Brasil,Total,Peso total das carcaças,379088126,Quilogramas
+2002-02,Brasil,Total,Peso total das carcaças,349874609,Quilogramas
+2002-03,Brasil,Total,Peso total das carcaças,351879385,Quilogramas
+2002-04,Brasil,Total,Peso total das carcaças,367462124,Quilogramas
+2002-05,Brasil,Total,Peso total das carcaças,397082257,Quilogramas
+2002-06,Brasil,Total,Peso total das carcaças,383685649,Quilogramas
+2002-07,Brasil,Total,Peso total das carcaças,401399372,Quilogramas
+2002-08,Brasil,Total,Peso total das carcaças,398997694,Quilogramas
+2002-09,Brasil,Total,Peso total das carcaças,389815162,Quilogramas
+2002-10,Brasil,Total,Peso total das carcaças,426871014,Quilogramas
+2002-11,Brasil,Total,Peso total das carcaças,424465697,Quilogramas
+2002-12,Brasil,Total,Peso total das carcaças,428991865,Quilogramas
+2003-01,Brasil,Total,Peso total das carcaças,417292415,Quilogramas
+2003-02,Brasil,Total,Peso total das carcaças,398106622,Quilogramas
+2003-03,Brasil,Total,Peso total das carcaças,412358934,Quilogramas
+2003-04,Brasil,Total,Peso total das carcaças,389789987,Quilogramas
+2003-05,Brasil,Total,Peso total das carcaças,415191733,Quilogramas
+2003-06,Brasil,Total,Peso total das carcaças,383179315,Quilogramas
+2003-07,Brasil,Total,Peso total das carcaças,399398722,Quilogramas
+2003-08,Brasil,Total,Peso total das carcaças,393277746,Quilogramas
+2003-09,Brasil,Total,Peso total das carcaças,418931167,Quilogramas
+2003-10,Brasil,Total,Peso total das carcaças,460613611,Quilogramas
+2003-11,Brasil,Total,Peso total das carcaças,420256747,Quilogramas
+2003-12,Brasil,Total,Peso total das carcaças,468816167,Quilogramas
+2004-01,Brasil,Total,Peso total das carcaças,453976177,Quilogramas
+2004-02,Brasil,Total,Peso total das carcaças,416806427,Quilogramas
+2004-03,Brasil,Total,Peso total das carcaças,489482654,Quilogramas
+2004-04,Brasil,Total,Peso total das carcaças,462987085,Quilogramas
+2004-05,Brasil,Total,Peso total das carcaças,492531303,Quilogramas
+2004-06,Brasil,Total,Peso total das carcaças,512617229,Quilogramas
+2004-07,Brasil,Total,Peso total das carcaças,521960346,Quilogramas
+2004-08,Brasil,Total,Peso total das carcaças,533977897,Quilogramas
+2004-09,Brasil,Total,Peso total das carcaças,519419326,Quilogramas
+2004-10,Brasil,Total,Peso total das carcaças,485000288,Quilogramas
+2004-11,Brasil,Total,Peso total das carcaças,501577409,Quilogramas
+2004-12,Brasil,Total,Peso total das carcaças,515876140,Quilogramas
+2005-01,Brasil,Total,Peso total das carcaças,490636256,Quilogramas
+2005-02,Brasil,Total,Peso total das carcaças,453248274,Quilogramas
+2005-03,Brasil,Total,Peso total das carcaças,508780842,Quilogramas
+2005-04,Brasil,Total,Peso total das carcaças,543723092,Quilogramas
+2005-05,Brasil,Total,Peso total das carcaças,547416445,Quilogramas
+2005-06,Brasil,Total,Peso total das carcaças,574364929,Quilogramas
+2005-07,Brasil,Total,Peso total das carcaças,570022842,Quilogramas
+2005-08,Brasil,Total,Peso total das carcaças,586541214,Quilogramas
+2005-09,Brasil,Total,Peso total das carcaças,528662812,Quilogramas
+2005-10,Brasil,Total,Peso total das carcaças,464232167,Quilogramas
+2005-11,Brasil,Total,Peso total das carcaças,519763585,Quilogramas
+2005-12,Brasil,Total,Peso total das carcaças,558418747,Quilogramas
+2006-01,Brasil,Total,Peso total das carcaças,532949260,Quilogramas
+2006-02,Brasil,Total,Peso total das carcaças,473822634,Quilogramas
+2006-03,Brasil,Total,Peso total das carcaças,578434296,Quilogramas
+2006-04,Brasil,Total,Peso total das carcaças,500478900,Quilogramas
+2006-05,Brasil,Total,Peso total das carcaças,608292924,Quilogramas
+2006-06,Brasil,Total,Peso total das carcaças,592883325,Quilogramas
+2006-07,Brasil,Total,Peso total das carcaças,588410629,Quilogramas
+2006-08,Brasil,Total,Peso total das carcaças,632421286,Quilogramas
+2006-09,Brasil,Total,Peso total das carcaças,594795696,Quilogramas
+2006-10,Brasil,Total,Peso total das carcaças,611142620,Quilogramas
+2006-11,Brasil,Total,Peso total das carcaças,581189913,Quilogramas
+2006-12,Brasil,Total,Peso total das carcaças,591761637,Quilogramas
+2007-01,Brasil,Total,Peso total das carcaças,624514985,Quilogramas
+2007-02,Brasil,Total,Peso total das carcaças,551833705,Quilogramas
+2007-03,Brasil,Total,Peso total das carcaças,638976091,Quilogramas
+2007-04,Brasil,Total,Peso total das carcaças,572394423,Quilogramas
+2007-05,Brasil,Total,Peso total das carcaças,645536275,Quilogramas
+2007-06,Brasil,Total,Peso total das carcaças,554436720,Quilogramas
+2007-07,Brasil,Total,Peso total das carcaças,589371362,Quilogramas
+2007-08,Brasil,Total,Peso total das carcaças,607789323,Quilogramas
+2007-09,Brasil,Total,Peso total das carcaças,570838587,Quilogramas
+2007-10,Brasil,Total,Peso total das carcaças,562636489,Quilogramas
+2007-11,Brasil,Total,Peso total das carcaças,559298069,Quilogramas
+2007-12,Brasil,Total,Peso total das carcaças,571368629,Quilogramas
+2008-01,Brasil,Total,Peso total das carcaças,583613434,Quilogramas
+2008-02,Brasil,Total,Peso total das carcaças,519437147,Quilogramas
+2008-03,Brasil,Total,Peso total das carcaças,528787655,Quilogramas
+2008-04,Brasil,Total,Peso total das carcaças,595606539,Quilogramas
+2008-05,Brasil,Total,Peso total das carcaças,597395037,Quilogramas
+2008-06,Brasil,Total,Peso total das carcaças,556406415,Quilogramas
+2008-07,Brasil,Total,Peso total das carcaças,567899878,Quilogramas
+2008-08,Brasil,Total,Peso total das carcaças,552183187,Quilogramas
+2008-09,Brasil,Total,Peso total das carcaças,552785752,Quilogramas
+2008-10,Brasil,Total,Peso total das carcaças,551798274,Quilogramas
+2008-11,Brasil,Total,Peso total das carcaças,488040273,Quilogramas
+2008-12,Brasil,Total,Peso total das carcaças,527420870,Quilogramas
+2009-01,Brasil,Total,Peso total das carcaças,517914783,Quilogramas
+2009-02,Brasil,Total,Peso total das carcaças,475894946,Quilogramas
+2009-03,Brasil,Total,Peso total das carcaças,523017481,Quilogramas
+2009-04,Brasil,Total,Peso total das carcaças,511681606,Quilogramas
+2009-05,Brasil,Total,Peso total das carcaças,553881152,Quilogramas
+2009-06,Brasil,Total,Peso total das carcaças,560927554,Quilogramas
+2009-07,Brasil,Total,Peso total das carcaças,580747852,Quilogramas
+2009-08,Brasil,Total,Peso total das carcaças,570899005,Quilogramas
+2009-09,Brasil,Total,Peso total das carcaças,575831754,Quilogramas
+2009-10,Brasil,Total,Peso total das carcaças,610846466,Quilogramas
+2009-11,Brasil,Total,Peso total das carcaças,556335000,Quilogramas
+2009-12,Brasil,Total,Peso total das carcaças,623655097,Quilogramas
+2010-01,Brasil,Total,Peso total das carcaças,562948962,Quilogramas
+2010-02,Brasil,Total,Peso total das carcaças,523071903,Quilogramas
+2010-03,Brasil,Total,Peso total das carcaças,606747358,Quilogramas
+2010-04,Brasil,Total,Peso total das carcaças,589416301,Quilogramas
+2010-05,Brasil,Total,Peso total das carcaças,624016633,Quilogramas
+2010-06,Brasil,Total,Peso total das carcaças,614389471,Quilogramas
+2010-07,Brasil,Total,Peso total das carcaças,616656395,Quilogramas
+2010-08,Brasil,Total,Peso total das carcaças,576795972,Quilogramas
+2010-09,Brasil,Total,Peso total das carcaças,579355679,Quilogramas
+2010-10,Brasil,Total,Peso total das carcaças,549986917,Quilogramas
+2010-11,Brasil,Total,Peso total das carcaças,552201684,Quilogramas
+2010-12,Brasil,Total,Peso total das carcaças,581897093,Quilogramas
+2011-01,Brasil,Total,Peso total das carcaças,544628297,Quilogramas
+2011-02,Brasil,Total,Peso total das carcaças,534299129,Quilogramas
+2011-03,Brasil,Total,Peso total das carcaças,562892337,Quilogramas
+2011-04,Brasil,Total,Peso total das carcaças,514992418,Quilogramas
+2011-05,Brasil,Total,Peso total das carcaças,583094835,Quilogramas
+2011-06,Brasil,Total,Peso total das carcaças,551584341,Quilogramas
+2011-07,Brasil,Total,Peso total das carcaças,564958960,Quilogramas
+2011-08,Brasil,Total,Peso total das carcaças,600287249,Quilogramas
+2011-09,Brasil,Total,Peso total das carcaças,577690855,Quilogramas
+2011-10,Brasil,Total,Peso total das carcaças,572206091,Quilogramas
+2011-11,Brasil,Total,Peso total das carcaças,586080613,Quilogramas
+2011-12,Brasil,Total,Peso total das carcaças,590821821,Quilogramas
+2012-01,Brasil,Total,Peso total das carcaças,546798805,Quilogramas
+2012-02,Brasil,Total,Peso total das carcaças,533846766,Quilogramas
+2012-03,Brasil,Total,Peso total das carcaças,600690448,Quilogramas
+2012-04,Brasil,Total,Peso total das carcaças,552348456,Quilogramas
+2012-05,Brasil,Total,Peso total das carcaças,632399002,Quilogramas
+2012-06,Brasil,Total,Peso total das carcaças,616511562,Quilogramas
+2012-07,Brasil,Total,Peso total das carcaças,632024774,Quilogramas
+2012-08,Brasil,Total,Peso total das carcaças,674073012,Quilogramas
+2012-09,Brasil,Total,Peso total das carcaças,611942936,Quilogramas
+2012-10,Brasil,Total,Peso total das carcaças,682575360,Quilogramas
+2012-11,Brasil,Total,Peso total das carcaças,653559794,Quilogramas
+2012-12,Brasil,Total,Peso total das carcaças,614376262,Quilogramas
+2013-01,Brasil,Total,Peso total das carcaças,681473983,Quilogramas
+2013-02,Brasil,Total,Peso total das carcaças,598272946,Quilogramas
+2013-03,Brasil,Total,Peso total das carcaças,617495121,Quilogramas
+2013-04,Brasil,Total,Peso total das carcaças,686158666,Quilogramas
+2013-05,Brasil,Total,Peso total das carcaças,675261849,Quilogramas
+2013-06,Brasil,Total,Peso total das carcaças,646622557,Quilogramas
+2013-07,Brasil,Total,Peso total das carcaças,725653780,Quilogramas
+2013-08,Brasil,Total,Peso total das carcaças,721382449,Quilogramas
+2013-09,Brasil,Total,Peso total das carcaças,676618462,Quilogramas
+2013-10,Brasil,Total,Peso total das carcaças,730669502,Quilogramas
+2013-11,Brasil,Total,Peso total das carcaças,702256738,Quilogramas
+2013-12,Brasil,Total,Peso total das carcaças,704854154,Quilogramas
+2014-01,Brasil,Total,Peso total das carcaças,719312944,Quilogramas
+2014-02,Brasil,Total,Peso total das carcaças,618151474,Quilogramas
+2014-03,Brasil,Total,Peso total das carcaças,614966367,Quilogramas
+2014-04,Brasil,Total,Peso total das carcaças,655730280,Quilogramas
+2014-05,Brasil,Total,Peso total das carcaças,707704433,Quilogramas
+2014-06,Brasil,Total,Peso total das carcaças,648058362,Quilogramas
+2014-07,Brasil,Total,Peso total das carcaças,713711961,Quilogramas
+2014-08,Brasil,Total,Peso total das carcaças,649160273,Quilogramas
+2014-09,Brasil,Total,Peso total das carcaças,677530636,Quilogramas
+2014-10,Brasil,Total,Peso total das carcaças,716436816,Quilogramas
+2014-11,Brasil,Total,Peso total das carcaças,643096281,Quilogramas
+2014-12,Brasil,Total,Peso total das carcaças,699364992,Quilogramas
+2015-01,Brasil,Total,Peso total das carcaças,652289378,Quilogramas
+2015-02,Brasil,Total,Peso total das carcaças,569582026,Quilogramas
+2015-03,Brasil,Total,Peso total das carcaças,616064540,Quilogramas
+2015-04,Brasil,Total,Peso total das carcaças,606142484,Quilogramas
+2015-05,Brasil,Total,Peso total das carcaças,625780616,Quilogramas
+2015-06,Brasil,Total,Peso total das carcaças,615520318,Quilogramas
+2015-07,Brasil,Total,Peso total das carcaças,634504391,Quilogramas
+2015-08,Brasil,Total,Peso total das carcaças,612519352,Quilogramas
+2015-09,Brasil,Total,Peso total das carcaças,631994832,Quilogramas
+2015-10,Brasil,Total,Peso total das carcaças,657282679,Quilogramas
+2015-11,Brasil,Total,Peso total das carcaças,623295936,Quilogramas
+2015-12,Brasil,Total,Peso total das carcaças,648458805,Quilogramas
+2016-01,Brasil,Total,Peso total das carcaças,609101266,Quilogramas
+2016-02,Brasil,Total,Peso total das carcaças,602353108,Quilogramas
+2016-03,Brasil,Total,Peso total das carcaças,589768125,Quilogramas
+2016-04,Brasil,Total,Peso total das carcaças,618797164,Quilogramas
+2016-05,Brasil,Total,Peso total das carcaças,628870324,Quilogramas
+2016-06,Brasil,Total,Peso total das carcaças,630630051,Quilogramas
+2016-07,Brasil,Total,Peso total das carcaças,614004842,Quilogramas
+2016-08,Brasil,Total,Peso total das carcaças,627448850,Quilogramas
+2016-09,Brasil,Total,Peso total das carcaças,587688399,Quilogramas
+2016-10,Brasil,Total,Peso total das carcaças,599837122,Quilogramas
+2016-11,Brasil,Total,Peso total das carcaças,602200516,Quilogramas
+2016-12,Brasil,Total,Peso total das carcaças,648077928,Quilogramas
+2017-01,Brasil,Total,Peso total das carcaças,606416833,Quilogramas
+2017-02,Brasil,Total,Peso total das carcaças,563308719,Quilogramas
+2017-03,Brasil,Total,Peso total das carcaças,626838954,Quilogramas
+2017-04,Brasil,Total,Peso total das carcaças,515198736,Quilogramas
+2017-05,Brasil,Total,Peso total das carcaças,678956910,Quilogramas
+2017-06,Brasil,Total,Peso total das carcaças,638029488,Quilogramas
+2017-07,Brasil,Total,Peso total das carcaças,674912162,Quilogramas
+2017-08,Brasil,Total,Peso total das carcaças,709473017,Quilogramas
+2017-09,Brasil,Total,Peso total das carcaças,635423203,Quilogramas
+2017-10,Brasil,Total,Peso total das carcaças,676075630,Quilogramas
+2017-11,Brasil,Total,Peso total das carcaças,657780766,Quilogramas
+2017-12,Brasil,Total,Peso total das carcaças,699123287,Quilogramas
+2018-01,Brasil,Total,Peso total das carcaças,656914043,Quilogramas
+2018-02,Brasil,Total,Peso total das carcaças,590162139,Quilogramas
+2018-03,Brasil,Total,Peso total das carcaças,645435909,Quilogramas
+2018-04,Brasil,Total,Peso total das carcaças,639384406,Quilogramas
+2018-05,Brasil,Total,Peso total das carcaças,564682221,Quilogramas
+2018-06,Brasil,Total,Peso total das carcaças,704005579,Quilogramas
+2018-07,Brasil,Total,Peso total das carcaças,719976186,Quilogramas
+2018-08,Brasil,Total,Peso total das carcaças,747806788,Quilogramas
+2018-09,Brasil,Total,Peso total das carcaças,647870783,Quilogramas
+2018-10,Brasil,Total,Peso total das carcaças,721661480,Quilogramas
+2018-11,Brasil,Total,Peso total das carcaças,677265998,Quilogramas
+2018-12,Brasil,Total,Peso total das carcaças,674350099,Quilogramas
+2019-01,Brasil,Total,Peso total das carcaças,687081382,Quilogramas
+2019-02,Brasil,Total,Peso total das carcaças,622370284,Quilogramas
+2019-03,Brasil,Total,Peso total das carcaças,640872724,Quilogramas
+2019-04,Brasil,Total,Peso total das carcaças,651784088,Quilogramas
+2019-05,Brasil,Total,Peso total das carcaças,709958505,Quilogramas
+2019-06,Brasil,Total,Peso total das carcaças,615919409,Quilogramas
+2019-07,Brasil,Total,Peso total das carcaças,751802622,Quilogramas
+2019-08,Brasil,Total,Peso total das carcaças,744211855,Quilogramas
+2019-09,Brasil,Total,Peso total das carcaças,701473703,Quilogramas
+2019-10,Brasil,Total,Peso total das carcaças,770320716,Quilogramas
+2019-11,Brasil,Total,Peso total das carcaças,677117037,Quilogramas
+2019-12,Brasil,Total,Peso total das carcaças,645938901,Quilogramas
+2020-01,Brasil,Total,Peso total das carcaças,624500747,Quilogramas
+2020-02,Brasil,Total,Peso total das carcaças,602357142,Quilogramas
+2020-03,Brasil,Total,Peso total das carcaças,630369451,Quilogramas
+2020-04,Brasil,Total,Peso total das carcaças,579647135,Quilogramas
+2020-05,Brasil,Total,Peso total das carcaças,668176761,Quilogramas
+2020-06,Brasil,Total,Peso total das carcaças,658943806,Quilogramas
+2020-07,Brasil,Total,Peso total das carcaças,700642817,Quilogramas
+2020-08,Brasil,Total,Peso total das carcaças,680219151,Quilogramas
+2020-09,Brasil,Total,Peso total das carcaças,693289570,Quilogramas
+2020-10,Brasil,Total,Peso total das carcaças,708552984,Quilogramas
+2020-11,Brasil,Total,Peso total das carcaças,610333577,Quilogramas
+2020-12,Brasil,Total,Peso total das carcaças,667855161,Quilogramas
+2021-01,Brasil,Total,Peso total das carcaças,564826102,Quilogramas
+2021-02,Brasil,Total,Peso total das carcaças,572294459,Quilogramas
+2021-03,Brasil,Total,Peso total das carcaças,594779697,Quilogramas
+2021-04,Brasil,Total,Peso total das carcaças,588476988,Quilogramas
+2021-05,Brasil,Total,Peso total das carcaças,640816129,Quilogramas
+2021-06,Brasil,Total,Peso total das carcaças,657935679,Quilogramas
+2021-07,Brasil,Total,Peso total das carcaças,684107496,Quilogramas
+2021-08,Brasil,Total,Peso total das carcaças,698094745,Quilogramas
+2021-09,Brasil,Total,Peso total das carcaças,529445734,Quilogramas
+2021-10,Brasil,Total,Peso total das carcaças,602623490,Quilogramas
+2021-11,Brasil,Total,Peso total das carcaças,625202883,Quilogramas
+2021-12,Brasil,Total,Peso total das carcaças,697657739,Quilogramas
+2022-01,Brasil,Total,Peso total das carcaças,612852124,Quilogramas
+2022-02,Brasil,Total,Peso total das carcaças,587096639,Quilogramas
+2022-03,Brasil,Total,Peso total das carcaças,649494452,Quilogramas
+2022-04,Brasil,Total,Peso total das carcaças,593828107,Quilogramas
+2022-05,Brasil,Total,Peso total das carcaças,688735224,Quilogramas
+2022-06,Brasil,Total,Peso total das carcaças,675865080,Quilogramas
+2022-07,Brasil,Total,Peso total das carcaças,705099256,Quilogramas
+2022-08,Brasil,Total,Peso total das carcaças,744176663,Quilogramas
+2022-09,Brasil,Total,Peso total das carcaças,715564497,Quilogramas
+2022-10,Brasil,Total,Peso total das carcaças,677288440,Quilogramas
+2022-11,Brasil,Total,Peso total das carcaças,652836628,Quilogramas
+2022-12,Brasil,Total,Peso total das carcaças,709482687,Quilogramas
+2023-01,Brasil,Total,Peso total das carcaças,675814267,Quilogramas
+2023-02,Brasil,Total,Peso total das carcaças,614534547,Quilogramas
+2023-03,Brasil,Total,Peso total das carcaças,642812494,Quilogramas
+2023-04,Brasil,Total,Peso total das carcaças,661194969,Quilogramas
+2023-05,Brasil,Total,Peso total das carcaças,785487380,Quilogramas
+2023-06,Brasil,Total,Peso total das carcaças,753118775,Quilogramas
+2023-07,Brasil,Total,Peso total das carcaças,769547613,Quilogramas
+2023-08,Brasil,Total,Peso total das carcaças,850128808,Quilogramas
+2023-09,Brasil,Total,Peso total das carcaças,776761423,Quilogramas
+2023-10,Brasil,Total,Peso total das carcaças,822354936,Quilogramas
+2023-11,Brasil,Total,Peso total das carcaças,811900784,Quilogramas
+2023-12,Brasil,Total,Peso total das carcaças,798766957,Quilogramas
+2024-01,Brasil,Total,Peso total das carcaças,830291531,Quilogramas
+2024-02,Brasil,Total,Peso total das carcaças,807276435,Quilogramas
+2024-03,Brasil,Total,Peso total das carcaças,793906314,Quilogramas
+2024-04,Brasil,Total,Peso total das carcaças,869885080,Quilogramas
+2024-05,Brasil,Total,Peso total das carcaças,887433521,Quilogramas
+2024-06,Brasil,Total,Peso total das carcaças,850261747,Quilogramas
+2024-07,Brasil,Total,Peso total das carcaças,953585498,Quilogramas
+2024-08,Brasil,Total,Peso total das carcaças,945216362,Quilogramas
+2024-09,Brasil,Total,Peso total das carcaças,885539133,Quilogramas
+2024-10,Brasil,Total,Peso total das carcaças,895153485,Quilogramas
+2024-11,Brasil,Total,Peso total das carcaças,813745719,Quilogramas
+2024-12,Brasil,Total,Peso total das carcaças,823648355,Quilogramas
+2025-01,Brasil,Total,Peso total das carcaças,855707828,Quilogramas
+2025-02,Brasil,Total,Peso total das carcaças,820657367,Quilogramas
+2025-03,Brasil,Total,Peso total das carcaças,831097307,Quilogramas
+2025-04,Brasil,Total,Peso total das carcaças,852553618,Quilogramas
+2025-05,Brasil,Total,Peso total das carcaças,921887008,Quilogramas
+2025-06,Brasil,Total,Peso total das carcaças,903807311,Quilogramas
+2025-07,Brasil,Total,Peso total das carcaças,1004233990,Quilogramas
+2025-08,Brasil,Total,Peso total das carcaças,969441045,Quilogramas
+2025-09,Brasil,Total,Peso total das carcaças,1006379779,Quilogramas
+2025-10,Brasil,Total,Peso total das carcaças,1039118750,Quilogramas
+2025-11,Brasil,Total,Peso total das carcaças,928161617,Quilogramas
+2025-12,Brasil,Total,Peso total das carcaças,970169531,Quilogramas
+2026-01,Brasil,Total,Peso total das carcaças,892485783,Quilogramas
+2026-02,Brasil,Total,Peso total das carcaças,825318738,Quilogramas
+2026-03,Brasil,Total,Peso total das carcaças,922853400,Quilogramas
+2026-04,Brasil,Total,Peso total das carcaças,884996418,Quilogramas
+2026-05,Brasil,Total,Peso total das carcaças,924791645,Quilogramas
+2026-06,Brasil,Total,Peso total das carcaças,948281593,Quilogramas

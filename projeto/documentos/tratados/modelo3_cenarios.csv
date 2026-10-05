@@ -1,0 +1,4 @@
+cenario,rel_sorgo_milho,rel_soja_milho,delta_sorgo_pct,delta_ddgs_pct,milho_toneladas,farelo_soja_46pb_toneladas,sorgo_toneladas,coprodutos_gordura_vegetal_ddgs_toneladas
+Base (Preços Estáveis),0.85,1.93,0.0,-0.35,47789068,18529580,4512405,3218306
+Cenário 1: Milho Caro / Sorgo Competitivo,0.78,1.93,0.7,-0.35,47197351,18529580,5104122,3218306
+Cenário 2: Soja Cara / Estímulo a DDGS,0.85,2.2,0.0,1.0,47161425,18016054,4512405,4359475

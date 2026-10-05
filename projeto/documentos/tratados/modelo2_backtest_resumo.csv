@@ -1,0 +1,5 @@
+escopo,metrica,pipeline,baseline,unidade
+10 comparacoes categoria-ano,MAPE,5.3354132915155645,5.760641290494979,%
+2 totais anuais de cinco categorias,MAPE,4.088589999397535,3.9807923169267734,%
+10 comparacoes categoria-ano,RMSE,843141.2725743809,709224.9290598858,toneladas
+2 totais anuais de cinco categorias,RMSE,3413604.8955851677,3250384.5926290015,toneladas
