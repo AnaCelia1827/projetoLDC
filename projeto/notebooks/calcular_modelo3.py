@@ -106,16 +106,20 @@ def validar_temporalmente(df_part, inicio_treino=2018, anos_teste=None):
 
 
 def garantir_limites(shares):
-    """Ponto 5: Garante 0 <= s_i <= 1 e soma coerente (não ultrapassa 100%)."""
-    s_ajust = {}
-    for item, val in shares.items():
-        s_ajust[item] = max(0.0, min(1.0, val))
+    """Ponto 5: Garante 0 <= s_i <= 1 para cada item e que a soma dos itens
+    nao ultrapasse 100% (o restante fica implicito como "Outros ingredientes").
 
+    Correcao: a versao anterior limitava cada item a [0,1], mas depois
+    reescalava o resultado de volta para a soma BRUTA (sem limite,
+    `sum(shares.values())`), o que anulava o proprio clip sempre que um
+    item excedia 100% - o resultado final podia continuar somando bem
+    mais que 100%. Agora so normaliza para baixo quando a soma dos
+    valores JA limitados ultrapassa 1.0, e nunca infla de volta."""
+    s_ajust = {item: max(0.0, min(1.0, val)) for item, val in shares.items()}
     soma_atual = sum(s_ajust.values())
-    soma_alvo = sum(shares.values())
-    if soma_atual > 0:
+    if soma_atual > 1.0:
         for item in s_ajust:
-            s_ajust[item] = (s_ajust[item] / soma_atual) * soma_alvo
+            s_ajust[item] = s_ajust[item] / soma_atual
     return s_ajust
 
 
